@@ -1,5 +1,6 @@
 /**
  * 翻转整数一
+ * @description 给定一个32位的有符号整数，需要将这个整数中每位上的数字进行翻转
  * @param {number} x
  * @return {number}
  */
@@ -52,6 +53,7 @@ const reverse1 = (x) => {
 
 /**
  * 翻转整数二
+ * @description 给定一个32位的有符号整数，需要将这个整数中每位上的数字进行翻转
  * @param {number} x
  * @return {number}
  */
